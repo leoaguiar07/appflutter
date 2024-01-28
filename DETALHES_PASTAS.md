@@ -1,0 +1,19 @@
+.dart_tool => arquivosw configuração do flutter
+.idea => usada pelo intelij e outros editores
+android => responsavel por todos os códigos android
+build => arquivos de build, gerado apk
+ios => arquivos para aplicação ios
+lib =>
+linux => executa aplicações Linux Desktop
+macos => executa aplicações MacOs Desktop
+test => arquivos de teste
+web => rodar aplicação Web
+windows => rodar aplicação Windows 32/64
+
+.gitignore => arquivos a serem ignorados no envio pro repositório
+.metadata => geradas pelo flutter (não mexer)
+.packages => geradas pelo flutter (não mexer)
+analysis_options.yaml => arquivos de não conformidade, algumas dicas
+app.iml => configurções do flutter
+pubspec.lock => coloca de forma trancada as versões das aplicções que ele usou
+pubspec.yaml => colocar fontes, imagens, pacotes ... usadas na apliação
